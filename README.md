@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello, I am Anzhela 👋
 
-<!--
-**anzhelaschults/anzhelaschults** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently I am completing FrontEndMasters and Tel-Ran Bootcamps 👩‍💻.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my Frontend Developer Portfolio
+- 🌱 I’m currently learning HTML, Vanilla CSS, Bootstrap, Responsive Design, JavaScript and React
+- 👯 I’m looking to collaborate on Full stack web development
+- 🤔 I’m looking for help with Backend Technologies
+- 💬 Ask me about my Frontend Technologies
+- 📫 How to reach me: anzhela.schults@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I like 🥐, 🚣‍♀️, 🧘‍♀️, 🏃‍♀️, 🪴
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![illustration](https://user-images.githubusercontent.com/59295431/137599834-502d36a4-ec21-4505-ba56-ad5ae8e2222f.jpeg)
